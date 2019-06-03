@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Draw Your own Note</string>
+    <string name="title_Paint">Paint</string>
+    <string name="title_Home">Paint</string>
+    <string name="title_Note">Note</string>
+    <string name="titleEdit_Note">Title note</string>
+
+
+</resources>
